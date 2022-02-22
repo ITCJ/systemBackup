@@ -1,0 +1,3311 @@
+# file: ../../../opt/
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//containerd
+# owner: root
+# group: root
+user::rwx
+group::--x
+other::--x
+
+# file: ../../../opt//containerd/bin
+# owner: root
+# group: root
+user::rwx
+group::--x
+other::--x
+
+# file: ../../../opt//containerd/lib
+# owner: root
+# group: root
+user::rwx
+group::--x
+other::--x
+
+# file: ../../../opt//mellanox
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharp_coll_dump_config
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharp_am
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharpd
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharp_job_quota
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharp_hello
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/bin/sharp_cmd
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/lib
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/lib/libsmx.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp_coll.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp_coll.so.5.0.1
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/pkgconfig
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/lib/pkgconfig/sharp.pc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp.so.6.1.0
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsmx.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libalog.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsharp_coll.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libalog.so.1.0.0
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libalog.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/lib/libsmx-2.6.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/systemd
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/systemd/system
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/systemd/system/sharpd.service
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/systemd/system/sharp_am.service
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/systemd/system/sharpd.socket
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/etc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/include
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/include/sharp
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/include/sharp/api
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/include/sharp/api/version.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/include/sharp/api/sharp.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/sharp
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/sharp_hello.c
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll/README
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll/coll_test.c
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll/coll_test_ops.c
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll/coll_test.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/sharp/examples/mpi/coll/Makefile
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/README
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/LICENSE
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/DeviceConfigurationFile.md
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/TreesConfigurationFile.md
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/CHANGELOG.md
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/share/doc/sharp/SHARP_VERSION
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/sharp/conf
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin/sharp.init
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin/sharp_benchmark2.sh
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin/sharp_daemons_setup.sh
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin/sharp_manager.sh
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/sharp/sbin/sharp_funcs.sh
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/mlnx_fw_updater.pl
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/mlnx_fpga_updater.sh
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4121
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_41686
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_41682
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4117
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4125
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4123
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4115
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4119
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/firmware/mlxfwmanager_sriov_dis_x86_64_4127
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/mlnx-fw-updater/mlnx-fw-updater.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/lib
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/lib/tc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/lib/tc/pareto.dist
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/lib/tc/paretonormal.dist
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/lib/tc/experimental.dist
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/lib/tc/normal.dist
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/rt_tables
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/rt_protos
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/rt_scopes
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/nl_protos
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/ematch_map
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/rt_dsfield
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/bpf_pinning
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/rt_realms
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/etc/iproute2/group
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/include
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/include/iproute2
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/include/iproute2/bpf_elf.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/bash-completion
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/bash-completion/completions
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/bash-completion/completions/devlink
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/bash-completion/completions/tc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/man/man3
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/man/man3/libnetlink.3
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man7
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/man/man7/tc-hfsc.7
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/mlxdevm.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-tunnel_key.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-red.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ctstat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-nat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-trap.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-skbprio.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-buffer.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-etf.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-mptcp.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/routel.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-monitor.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-cbq.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-xfrm.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rtmon.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-vrf.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-ets.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-sfb.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-dcbx.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-bpf.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-sfq.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-monitor.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-choke.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-xt.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-drr.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-resource.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/nstat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-prio.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma-system.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-netem.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-basic.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-u32.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-simple.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma-dev.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/arpd.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-mpls.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-health.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-addrlabel.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-ematch.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-macsec.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ifstat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-sr.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-ife.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-pie.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-maxrate.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-route.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rtstat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-hfsc.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-l2tp.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-sample.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-peer.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-cake.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-flower.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-mroute.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ifcfg.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-link.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-rate.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-pfifo.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-netns.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/mlxdevm-port.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-tcp_metrics.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-flow.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-fw.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-neighbour.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-cgroup.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-link.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-pedit.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-police.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-port.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rtpr.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/routef.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-ct.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-token.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-region.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-taprio.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/vdpa.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma-statistic.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-nametable.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-fq_codel.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-dpipe.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-vlan.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-address.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-rule.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-actions.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-skbmod.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/genl.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/vdpa-mgmtdev.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/mlxdevm-dev.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-tbf.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-csum.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ss.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-fou.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-codel.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-connmark.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-maddress.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-netconf.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/lnstat.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-pfc.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-sb.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-fq_pie.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-stab.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-gate.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/devlink-dev.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-tcindex.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-mirred.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-socket.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-ioam.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-ntable.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-cbs.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/bridge.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma-resource.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-app.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-ctinfo.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-matchall.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-gue.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/vdpa-dev.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-media.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-tunnel.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-fq.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-nexthop.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-bearer.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rdma-link.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-skbedit.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/rtacct.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-bfifo.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/dcb-ets.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-pfifo_fast.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-mqprio.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-htb.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/ip-route.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tc-cbq-details.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/share/man/man8/tipc-node.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/iproute2/sbin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/nstat
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/routel
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/devlink
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/dcb
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/ifstat
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/mlxdevm
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/rdma
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/ip
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/rtacct
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/tc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/rtmon
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/arpd
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/ss
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/rtpr
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/bridge
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/ifcfg
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/genl
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/tipc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/routef
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/lnstat
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/iproute2/sbin/vdpa
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/bin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/bin/hcoll_info
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/lib
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/lib/pkgconfig
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/lib/pkgconfig/hcoll.pc
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/libhcoll.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/libocoms.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/libhcoll.so.1.0.10
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/libocoms.so.0.0.0
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/libhcoll.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_dummy.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ptpcoll.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_ucs.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ptpcoll.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_vmc.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_basesmuma.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_dummy.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ucx_p2p.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_basesmuma.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_rmc.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_basesmuma.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_sharp_sharp.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_vmc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_sharp_sharp.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_dummy.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_sharp_sharp.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_rmc.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_ucs.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ucx_p2p.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_rcache_ucs.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ucx_p2p.a
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_rmc.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_bcol_ptpcoll.so
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/lib/hcoll/hmca_mcast_vmc.la
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_2level_uma_cd_ptp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_2level_mcast.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_2level_uma_ptp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_3level_socket_uma_cd_ptp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_2level_uma_mxm.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_cd_ptp.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_ptp_only.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_cd_mxm.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_2level_uma_cd_mxm.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_1level_mcast.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_mxm_only.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/etc/hcoll_3level_socket_uma_cd_mxm.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/mca
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/mca/mca.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/mca/base
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/mca/base/mca_base_component_repository.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/mca/base/base.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives/align.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives/prefetch.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives/ocoms_socket_errno.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives/types.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/primitives/hash_string.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_copy.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_cuda.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_prototypes.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_memcpy.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_convertor.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_unpack.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_pack.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/datatype/ocoms_datatype_checksum.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads/mutex.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads/mutex_unix.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads/threads.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads/condition.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/threads/tsd.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_config.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_stdint.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_config_bottom.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_portable_platform.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_constants.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/platform/ocoms_config_top.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/sparc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/sparc/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia32
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia32/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia32/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/powerpc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/powerpc/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/powerpc/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/alpha
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/alpha/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/mips
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/mips/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/mips/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/sparcv9
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/sparcv9/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/sparcv9/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/atomic_impl.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm64
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm64/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/arm64/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/amd64
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/amd64/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/amd64/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia64
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia64/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/ia64/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/architecture.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/win32
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/win32/atomic.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/win32/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/sys/timer.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/memoryhooks
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/memoryhooks/memory_internal.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/memoryhooks/memory.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/libocoms_version.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/printf.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/path.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/if.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/fd.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/argv.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/os_path.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_atomic_lifo.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_info_support.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_list.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_object.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_hash_table.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_free_list.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_bitmap.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/output.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/crc.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_rb_tree.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_graph.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/keyval_parse.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_value_array.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_environ.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/cmd_line.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/ocoms_pointer_array.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/arch.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/ocoms/util/error.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_dte.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_api.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_version.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_errors.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_runtime_api.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/include/hcoll/api/hcoll_constants.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/sdk
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/sdk/README
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/sdk/hcoll_sdk.c
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/sdk/Makefile
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/share
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/share/doc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/share/doc/hcoll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/share/doc/hcoll/README.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/share/doc/hcoll/EULA.pdf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/hcoll/share/hcoll
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/hcoll/share/hcoll/help-ompi-common-verbs.txt
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/ethtool
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share/bash-completion
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share/bash-completion/completions
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share/bash-completion/completions/ethtool
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/ethtool/share/man
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share/man/man8
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/share/man/man8/ethtool.8
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//mellanox/ethtool/sbin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//mellanox/ethtool/sbin/ethtool
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_access_rights_test
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_notify_fd_test
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_cost
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_multifd_test
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_status_test
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_vect_test
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_region_cost
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_loopback
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_pingpong
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/bin/knem_collectives
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/etc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/etc/10-knem.rules
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/include
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/include/knem_io.h
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/share
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/share/doc
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/share/doc/knem
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/share/doc/knem/knem-api.html
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/share/doc/knem/knem.html
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/sbin
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: ../../../opt//knem-1.1.4.90mlnx1/sbin/knem_local_install
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
