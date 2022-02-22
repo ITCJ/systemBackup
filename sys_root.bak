@@ -1,298 +1,298 @@
-# file: ../../../root/
+# file: /root/
 # owner: root
 # group: root
 user::rwx
 group::---
 other::---
 
-# file: ../../../root//.viminfo
+# file: /root//.viminfo
 # owner: root
 # group: root
 user::rw-
 group::---
 other::---
 
-# file: ../../../root//.vim
+# file: /root//.vim
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.vim/.netrwhist
+# file: /root//.vim/.netrwhist
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.profile
+# file: /root//.profile
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.npm
+# file: /root//.npm
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/anonymous-cli-metrics.json
+# file: /root//.npm/anonymous-cli-metrics.json
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache
+# file: /root//.npm/_cacache
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/tmp
+# file: /root//.npm/_cacache/tmp
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2
+# file: /root//.npm/_cacache/content-v2
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512
+# file: /root//.npm/_cacache/content-v2/sha512
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/1e
+# file: /root//.npm/_cacache/content-v2/sha512/1e
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/1e/cc
+# file: /root//.npm/_cacache/content-v2/sha512/1e/cc
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/1e/cc/334a90f1e3cfda4d42c10c2b77c75c909a379d1dba269b718ec53c0870c435a61bee1eca6ed7865f443ae9dbb9d9fc983b62d21a263efb6bda313df45a47
+# file: /root//.npm/_cacache/content-v2/sha512/1e/cc/334a90f1e3cfda4d42c10c2b77c75c909a379d1dba269b718ec53c0870c435a61bee1eca6ed7865f443ae9dbb9d9fc983b62d21a263efb6bda313df45a47
 # owner: root
 # group: root
 user::r--
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/0b
+# file: /root//.npm/_cacache/content-v2/sha512/0b
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/0b/61
+# file: /root//.npm/_cacache/content-v2/sha512/0b/61
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/0b/61/241d7c17bcbb1baee7094d14b7c451efecc7ffcbd92598a0f13d313cc9ebc2a07e61f007baf58fbf94ff9a8695bdd5cae7ce03bbf1e94e93613a00f25f21
+# file: /root//.npm/_cacache/content-v2/sha512/0b/61/241d7c17bcbb1baee7094d14b7c451efecc7ffcbd92598a0f13d313cc9ebc2a07e61f007baf58fbf94ff9a8695bdd5cae7ce03bbf1e94e93613a00f25f21
 # owner: root
 # group: root
 user::r--
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/97
+# file: /root//.npm/_cacache/content-v2/sha512/97
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/97/18
+# file: /root//.npm/_cacache/content-v2/sha512/97/18
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/content-v2/sha512/97/18/90cd5a921831b43c80d01897550e3a7b4fee74a793673381274496bbea6919a7abb9ba5d7d18934a84f2a2f354d94002d91190f1020c55a902a459350ec4
+# file: /root//.npm/_cacache/content-v2/sha512/97/18/90cd5a921831b43c80d01897550e3a7b4fee74a793673381274496bbea6919a7abb9ba5d7d18934a84f2a2f354d94002d91190f1020c55a902a459350ec4
 # owner: root
 # group: root
 user::r--
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache/index-v5
+# file: /root//.npm/_cacache/index-v5
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/a0
+# file: /root//.npm/_cacache/index-v5/a0
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/a0/ae
+# file: /root//.npm/_cacache/index-v5/a0/ae
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/a0/ae/5435cfca203d4408ffde50a578a29601ac6283e5773f51831f686e3c134f
+# file: /root//.npm/_cacache/index-v5/a0/ae/5435cfca203d4408ffde50a578a29601ac6283e5773f51831f686e3c134f
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache/index-v5/14
+# file: /root//.npm/_cacache/index-v5/14
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/14/05
+# file: /root//.npm/_cacache/index-v5/14/05
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/14/05/997934349ff4c528879ae4dfbd5b1eed9e40e885158a6dcc5bd2a010ec4b
+# file: /root//.npm/_cacache/index-v5/14/05/997934349ff4c528879ae4dfbd5b1eed9e40e885158a6dcc5bd2a010ec4b
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_cacache/index-v5/1b
+# file: /root//.npm/_cacache/index-v5/1b
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/1b/34
+# file: /root//.npm/_cacache/index-v5/1b/34
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.npm/_cacache/index-v5/1b/34/9265ae8b845fa1e5c39447e51c35da96f589975d4357a2c8fe181187a483
+# file: /root//.npm/_cacache/index-v5/1b/34/9265ae8b845fa1e5c39447e51c35da96f589975d4357a2c8fe181187a483
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.npm/_locks
+# file: /root//.npm/_locks
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//.bashrc
+# file: /root//.bashrc
 # owner: root
 # group: root
 user::rw-
 group::r--
 other::r--
 
-# file: ../../../root//.bash_history
+# file: /root//.bash_history
 # owner: root
 # group: root
 user::rw-
 group::---
 other::---
 
-# file: ../../../root//.ssh
+# file: /root//.ssh
 # owner: root
 # group: root
 user::rwx
 group::---
 other::---
 
-# file: ../../../root//.ssh/authorized_keys
+# file: /root//.ssh/authorized_keys
 # owner: root
 # group: root
 user::rw-
 group::---
 other::---
 
-# file: ../../../root//.config
+# file: /root//.config
 # owner: root
 # group: root
 user::rwx
 group::---
 other::---
 
-# file: ../../../root//.config/configstore
+# file: /root//.config/configstore
 # owner: root
 # group: root
 user::rwx
 group::---
 other::---
 
-# file: ../../../root//.config/configstore/update-notifier-npm.json
+# file: /root//.config/configstore/update-notifier-npm.json
 # owner: root
 # group: root
 user::rw-
 group::---
 other::---
 
-# file: ../../../root//snap
+# file: /root//snap
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//snap/lxd
+# file: /root//snap/lxd
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//snap/lxd/21835
+# file: /root//snap/lxd/21835
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//snap/lxd/common
+# file: /root//snap/lxd/common
 # owner: root
 # group: root
 user::rwx
 group::r-x
 other::r-x
 
-# file: ../../../root//snap/lxd/21029
+# file: /root//snap/lxd/21029
 # owner: root
 # group: root
 user::rwx

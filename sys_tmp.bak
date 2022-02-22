@@ -1,0 +1,1673 @@
+# file: /tmp/
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pyright-3475449-A0az2MQwzfY7
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-_hcy2w8f
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-_hcy2w8f/Keras_Preprocessing-1.1.2-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pyright-3298519-bQgK8f2lHMGA
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmpxft_0001b523_00000000-6_scaled_masked_softmax_cuda.compute_80.cudafe1.cpp
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-rl96nddr
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-rl96nddr/importlib_metadata-4.11.1-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_scz1u016
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_scz1u016/none_k1w7hi1m
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmpxft_0001b523_00000000-5_scaled_masked_softmax_cuda.cpp4.ii
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-nei7gvsa
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-nei7gvsa/google_pasta-0.2.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//.font-unix
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pyright-2023471-nPgmURAteQPU
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_q0aj3nwj
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_q0aj3nwj/none_njmy0wr5
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_q0aj3nwj/none_njmy0wr5/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_q0aj3nwj/none_njmy0wr5/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_q0aj3nwj/none_njmy0wr5/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-srp_daemon.service-e1QKJg
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-srp_daemon.service-e1QKJg/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pip-unpack-nc8ao3d5
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-nc8ao3d5/tensorflow-2.8.0-cp38-cp38-manylinux2010_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-67zaqjmj
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-us2rqdf3
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-us2rqdf3/opt_einsum-3.3.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-ModemManager.service-FDpo0h
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-ModemManager.service-FDpo0h/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//torchelastic_h1n1muk7
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_h1n1muk7/none_fiip7lkv
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_h1n1muk7/none_fiip7lkv/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_h1n1muk7/none_fiip7lkv/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_h1n1muk7/none_fiip7lkv/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pip-unpack-vvoi08xx
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-vvoi08xx/pyasn1-0.4.8-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_wigvmeoa
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_wigvmeoa/none__dhzfg83
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-upower.service-qHH4ci
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-upower.service-qHH4ci/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//.Test-unix
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pip-req-tracker-klm8spd2
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_9538q1i8
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_9538q1i8/none_l6jkb2ky
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_9538q1i8/none_l6jkb2ky/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_9538q1i8/none_l6jkb2ky/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_9538q1i8/none_l6jkb2ky/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//tmpxft_0001b523_00000000-7_scaled_masked_softmax_cuda.compute_70.cudafe1.stub.c
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-3_scaled_masked_softmax_cuda.fatbin.c
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-7_scaled_masked_softmax_cuda.compute_70.cudafe1.c
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-2.cpp
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-7_scaled_masked_softmax_cuda.compute_70.ptx
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_vokprcim
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_vokprcim/none_h3z_1zq6
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_vokprcim/none_h3z_1zq6/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_vokprcim/none_h3z_1zq6/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_vokprcim/none_h3z_1zq6/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pip-unpack-94ngm94e
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-94ngm94e/tf_estimator_nightly-2.8.0.dev2021122109-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//ssh-oykkYCKGKRUw
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//ssh-oykkYCKGKRUw/agent.3748113
+# owner: inspur
+# group: inspur
+user::rw-
+group::---
+other::---
+
+# file: /tmp//torchelastic_45_pg9iy
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_45_pg9iy/none_asi9aa40
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-resolved.service-8NDJDf
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-resolved.service-8NDJDf/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//torchelastic_dxmo0fxv
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_dxmo0fxv/none_mv9vcggl
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-cddcj048
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-cddcj048/gast-0.5.3-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-onyrgoem
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-onyrgoem/tensorflow_io_gcs_filesystem-0.24.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_dijwfvmq
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_dijwfvmq/none_d6urs_2r
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_dijwfvmq/none_d6urs_2r/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_dijwfvmq/none_d6urs_2r/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_dijwfvmq/none_d6urs_2r/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_s30q1z31
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_s30q1z31/none_teptksl0
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_s30q1z31/none_teptksl0/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_s30q1z31/none_teptksl0/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_s30q1z31/none_teptksl0/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//tmpxft_0001b523_00000000-6_scaled_masked_softmax_cuda.compute_80.cudafe1.stub.c
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-7iukk1z4
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-7iukk1z4/pyasn1_modules-0.2.8-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_wce01k1k
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_wce01k1k/none_vdz2t_mi
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_wce01k1k/none_vdz2t_mi/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_wce01k1k/none_vdz2t_mi/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_wce01k1k/none_vdz2t_mi/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-logind.service-ujOVjf
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-logind.service-ujOVjf/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pyright-258740-3XaFO4QgBQPe
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//.tensorboard-info
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//.tensorboard-info/pid-2004124.info
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//.tensorboard-info/pid-1391637.info
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//.tensorboard-info/pid-1389505.info
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_x3y0hky6
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_x3y0hky6/none_aynnsqcp
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_x3y0hky6/none_aynnsqcp/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_x3y0hky6/none_aynnsqcp/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_x3y0hky6/none_aynnsqcp/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pip-unpack-roxu4jiy
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-roxu4jiy/google_auth_oauthlib-0.4.6-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pyright-3475470-lLs6E77YOKNm
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pyright-2003793-MXkR5R5zetNz
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//.XIM-unix
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//torchelastic_imdyuh02
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_imdyuh02/none_yudz1u99
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_imdyuh02/none_yudz1u99/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_imdyuh02/none_yudz1u99/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_imdyuh02/none_yudz1u99/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic__evxnycj
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic__evxnycj/none_tlz6hflq
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmpxft_0001b523_00000000-9_scaled_masked_softmax_cuda.compute_70.cpp1.ii
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-install-vd_q6998
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_0bd0f2va
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_0bd0f2va/none_56bfskmu
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_0bd0f2va/none_56bfskmu/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_0bd0f2va/none_56bfskmu/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_0bd0f2va/none_56bfskmu/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pyright-3180573-v7Z5svojWDGc
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//.ICE-unix
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pyright-3460398-4aKK467F4uDk
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmpxft_0001b523_00000000-7_scaled_masked_softmax_cuda.compute_70.cudafe1.gpu
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_u0ekjae_
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_u0ekjae_/none_h78q_rr1
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_u0ekjae_/none_h78q_rr1/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_u0ekjae_/none_h78q_rr1/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_u0ekjae_/none_h78q_rr1/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pyright-3373113-6UqZ17zSNnWX
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-ej2t7kn_
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-ej2t7kn_/requests_oauthlib-1.3.1-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-6_scaled_masked_softmax_cuda.compute_80.ptx
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pyright-254789-8kPzYRLthYNT
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pyright-149735-qmrNBavgjq7n
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_4vsjh4gv
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_4vsjh4gv/none__r7erekg
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-rao9p0i7
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-rao9p0i7/grpcio-1.44.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-zifikmr6
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-zifikmr6/cachetools-5.0.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_1b6mq4tk
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_1b6mq4tk/none_hvh48vi5
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_1b6mq4tk/none_hvh48vi5/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_1b6mq4tk/none_hvh48vi5/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_1b6mq4tk/none_hvh48vi5/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_27ppmbs_
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_27ppmbs_/none_xb5b4bhc
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmpxft_0001b523_00000000
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_h53sk2fv
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_h53sk2fv/none_3330utdu
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-rn9j_xl1
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-rn9j_xl1/tensorboard_data_server-0.6.1-py3-none-manylinux2010_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-ipd1o2hq
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-ipd1o2hq/protobuf-3.19.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//snap.lxd
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//snap.lxd/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pip-unpack-gi_rr1lc
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-gi_rr1lc/keras-2.8.0-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_6f_orptn
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_6f_orptn/none_g_uqtxu6
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//python-languageserver-cancellation
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//python-languageserver-cancellation/471eaaaafa21e7e37c3d096dd031966c1500ed4f4f
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_sv6zcqmn
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_sv6zcqmn/none_gixgqp_i
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-ml33c6cd
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-ml33c6cd/google_auth-2.6.0-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_dbq6_u3o
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_dbq6_u3o/none_y6z9lov_
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_dbq6_u3o/none_y6z9lov_/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_dbq6_u3o/none_y6z9lov_/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_dbq6_u3o/none_y6z9lov_/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pyright-1390717-Ed01r7EkxxV1
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-no41za6c
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-no41za6c/Markdown-3.3.6-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-srp_daemon_port@mlx5_0:1.service-JQSw3g
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-srp_daemon_port@mlx5_0:1.service-JQSw3g/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//pip-unpack-0p5r69e6
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-0p5r69e6/flatbuffers-2.0-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-4_scaled_masked_softmax_cuda.module_id
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_4jp6hjgf
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_4jp6hjgf/none_k0rf7sla
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_4jp6hjgf/none_k0rf7sla/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_4jp6hjgf/none_k0rf7sla/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_4jp6hjgf/none_k0rf7sla/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//mstflint_lockfiles
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: /tmp//mstflint_lockfiles/0000:86:00.0_config
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: /tmp//pip-unpack-7_8g3sx4
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-7_8g3sx4/libclang-13.0.0-py2.py3-none-manylinux1_x86_64.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torch_extensions
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torch_extensions/utils
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pyright-3312604-XWhK5WqhH0yy
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pyright-106887-1cOjFXUQTNQF
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_hy10s9zw
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_hy10s9zw/none_yiu2hbpz
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_hy10s9zw/none_yiu2hbpz/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_hy10s9zw/none_yiu2hbpz/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_hy10s9zw/none_yiu2hbpz/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//tmpxft_0001b523_00000000-10_scaled_masked_softmax_cuda.compute_70.sm_70.cubin
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-timesyncd.service-T5bqDf
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//systemd-private-82aae501d1ce4141a11cc01ae1e96b60-systemd-timesyncd.service-T5bqDf/tmp
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//tmpxft_0001b523_00000000-11_scaled_masked_softmax_cuda.compute_80.cubin
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-emzwx6qe
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-emzwx6qe/astunparse-1.6.3-py2.py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-6slr1kgs
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-6slr1kgs/absl_py-1.0.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pyright-2992198-TEjXOfaBO8Om
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-p4bx2_wn
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-p4bx2_wn/rsa-4.8-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-6_scaled_masked_softmax_cuda.compute_80.cudafe1.c
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-ephem-wheel-cache-3r44iqzo
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_sz33t24c
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_sz33t24c/none_fvmmy6bk
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_sz33t24c/none_fvmmy6bk/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_sz33t24c/none_fvmmy6bk/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_sz33t24c/none_fvmmy6bk/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//tmpxft_0001b523_00000000-6_scaled_masked_softmax_cuda.compute_80.cudafe1.gpu
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmpxft_0001b523_00000000-8_scaled_masked_softmax_cuda.compute_80.cpp1.ii
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-6fydcmpv
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-6fydcmpv/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//torchelastic_xytzbx16
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_xytzbx16/none_46cxlaum
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//torchelastic_xytzbx16/none_46cxlaum/attempt_0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_xytzbx16/none_46cxlaum/attempt_0/1
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//torchelastic_xytzbx16/none_46cxlaum/attempt_0/0
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//inspur
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//inspur/spack-stage
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//inspur/spack-stage/spack-src
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//inspur/spack-stage/.lock
+# owner: inspur
+# group: inspur
+user::rwx
+group::rwx
+other::r-x
+
+# file: /tmp//pip-unpack-yvtbyubu
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-yvtbyubu/oauthlib-3.2.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//pip-unpack-4hcqva1o
+# owner: inspur
+# group: inspur
+user::rwx
+group::---
+other::---
+
+# file: /tmp//pip-unpack-4hcqva1o/tensorboard-2.8.0-py3-none-any.whl
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//.X11-unix
+# owner: root
+# group: root
+# flags: --t
+user::rwx
+group::rwx
+other::rwx
+
+# file: /tmp//tmpxft_0001b523_00000000-1
+# owner: inspur
+# group: inspur
+user::rw-
+group::rw-
+other::r--
+
+# file: /tmp//tmppt_0opht
+# owner: root
+# group: root
+user::rwx
+group::---
+other::---
+
+# file: /tmp//tmppt_0opht/apt.conf
+# owner: root
+# group: root
+user::rw-
+group::r--
+other::r--
+
